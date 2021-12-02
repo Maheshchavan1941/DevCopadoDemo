@@ -179,4 +179,12 @@
         <type>Email</type>
         <unique>false</unique>
     </fields>
+    <fields>
+        <fullName>Field_Five__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>Field Five</label>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
 </CustomObject>

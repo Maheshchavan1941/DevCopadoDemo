@@ -183,7 +183,7 @@
         <fullName>field_eight__c</fullName>
         <defaultValue>false</defaultValue>
         <externalId>false</externalId>
-        <label>field seven</label>
+        <label>field eight</label>
         <trackTrending>false</trackTrending>
         <type>Checkbox</type>
     </fields>
